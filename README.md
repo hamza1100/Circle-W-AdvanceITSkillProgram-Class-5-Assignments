@@ -42,6 +42,7 @@ python3 manage.py migrate
 
 Then run the server
 python3 manage.py runserver 0.0.0.0:8004
+
 ![image](https://github.com/hamza1100/Circle-W-AdvanceITSkillProgram-Class-5-Assignments/assets/14037952/fcf550f8-3b4e-48a8-9948-4de0b5cf8b5f)
 
 ![image](https://github.com/hamza1100/Circle-W-AdvanceITSkillProgram-Class-5-Assignments/assets/14037952/847d0110-9ff2-49f3-842b-152714e7d73b)
@@ -54,13 +55,16 @@ sudo yum install docker
 
 ### Step 2
 Create a bash script to automate the image creation and running the container
+
 ![image](https://github.com/hamza1100/Circle-W-AdvanceITSkillProgram-Class-5-Assignments/assets/14037952/d5e7c3f9-42df-4f09-a56c-de3007a45afa)
 
 
 ### Step 3
 Execute the bash script
 bash docker-deploy.sh
+
 ![image](https://github.com/hamza1100/Circle-W-AdvanceITSkillProgram-Class-5-Assignments/assets/14037952/6cd6f5be-b401-494d-b925-021d28ff0b9c)
 
 The App should be up and running on docker.
+
 ![image](https://github.com/hamza1100/Circle-W-AdvanceITSkillProgram-Class-5-Assignments/assets/14037952/e4fe3faf-5b98-4bec-bab9-34982e3a77dc)
